@@ -1,7 +1,8 @@
 # React
 Tips React
 ## CREAR NUEVO PROYECTO 
-`yarn create vite`
+* Nos ubicamos en el directorio donde deseamos alojar nuestro proyecto
+  `yarn create vite`
 * Indicamos el nombre del proyecto mi-app
 * Seleccionamos la opción React
 * Seleccionamos JavaScript o TypeScript
