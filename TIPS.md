@@ -1,6 +1,9 @@
 ### TIPS
-$Manejo de PropTypes
-
+Manejo de PropTypes
+Primero debemos instalar los PropTypes
+```
+npm i prop-types
+```
 Debemos importar PropTypes
 ```
 import PropTypes from 'prop-types';
